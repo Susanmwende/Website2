@@ -1,0 +1,104 @@
+#nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    
+
+}
+body{
+    background-color: rgb(226, 187, 200);
+    
+}
+h4{
+    color: rgb(238, 52, 145);
+}
+button{
+    color: rgb(7, 7, 7);
+    padding: 12px;
+    background-color: rgb(0, 204, 255);
+}
+.image{
+    width:200px ;
+    display: flex;
+    
+    
+}
+.icon{ 
+    width: 200px;
+    height: 150px;
+    display: flex;
+    
+    
+
+}
+.form{
+    background-color: aliceblue;
+    margin: 60px;
+    
+
+}
+
+
+.img6{
+    position: relative;
+    width:200px ;
+    height:200px ;
+    justify-content: end;
+}
+.kaa{
+    display: flex;
+}
+.imagees{
+    display: flex;
+}
+.move{
+    display: flex;
+}
+.forward{
+    display: flex;
+    
+}
+.galaxy{
+    display: grid;
+    grid-template-columns: 40% 40%;
+    width: 400px;
+    display: flex;
+    flex: content;
+    
+       
+}
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 20px;
+    
+    
+
+}
+.forward{
+    display: flex;
+    flex-direction: row;
+}
+.diff{
+    background-color: rgb(226, 187, 200);
+    margin:40px ;
+    padding: 4px;
+    
+}
+.but3{
+    display: flex;
+    border-radius: 3px;
+}
+.footer{
+    display: flex;
+
+}
+.do{
+    display: flex;
+    
+}
+
